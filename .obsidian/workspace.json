@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vps/时区.md",
+                "file": "trash/pandoc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vps/时区.md",
+                "file": "trash/pandoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vps/时区.md",
+                "file": "trash/pandoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,23 +142,23 @@
   },
   "active": "b0dfacb964489463",
   "lastOpenFiles": [
-    "vps/sudo.md",
+    "trash/penumbra.md",
+    "trash/scoop.md",
+    "trash/keepass.md",
+    "trash/keywords.md",
     "vps/时区.md",
+    "vps/sudo.md",
     "vps/rime.md",
     "trash/wezterm 配色.md",
     "trash/att/color 1.lua",
     "trash/att/color.lua",
     "trash/att",
-    "trash/scoop.md",
     "trash/2094宽带账号.md",
     "trash/2094宽带账号.txt",
-    "trash/penumbra.md",
     "trash/pandoc.md",
     "trash/mouse.md",
     "trash/LaTeX-公式.md",
     "trash/mermaid.md",
-    "trash/keywords.md",
-    "trash/keepass.md",
     "trash/etc.md",
     "vps/aria2 1.md",
     "trash/物理界的4大神兽.md",
