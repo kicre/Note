@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "b8cb04b22625d510",
+    "type": "split",
+    "children": [
+      {
+        "id": "a68f92a0a995c4b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "trash/aria2（命令行下载器）使用.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8786f5d911f5e195",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4396333792728848",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "bf4c9853c8c09866",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#scoop",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "586cd0b4badc314b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e3a9f06dedf4db5f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "trash/aria2（命令行下载器）使用.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a68f92a0a995c4b9",
+  "lastOpenFiles": [
+    "trash/aria2（命令行下载器）使用.md",
+    "trash/2021-11-06 001148.png",
+    "数电设计.md",
+    "trash/scoop.md",
+    "trash/未命名.md",
+    "数电设计报告.md",
+    "https%3A%2F%2Fgithub.com%2Ferasin%2Fnotes%2Fblob%2Fmaster%2Flinux%2Fsoft%2Faria2.md",
+    "https%3A%2F%2Faria2.github.io%2Fmanual%2Fen%2Fhtml%2Findex.html.md",
+    "https%3A%2F%2Flinux.cn%2Farticle-7982-1.html.md"
+  ]
+}

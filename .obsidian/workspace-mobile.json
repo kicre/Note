@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "b8cb04b22625d510",
+    "type": "split",
+    "children": [
+      {
+        "id": "992019947cf65c0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00eb604ccd261e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mouse.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99ddbc3bfac6e6a7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1e43f882568927ff",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9fbe049f0b9c4dac",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e75198830a9a9ca9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5de2e6f80dfb1ce2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "mouse.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "scon",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "00eb604ccd261e99",
+  "lastOpenFiles": [
+    "study/从《世说新语》中浅析魏晋风雅.md",
+    "从传统文化中提升艺术素养.md",
+    "未命名.md",
+    "study/智能仪器/智能仪器习题复习.md",
+    "study/自动控制/梅森公式.md",
+    "study/传感器/传感器 考前重点.md",
+    "study/单片机/80C51单片机-汇编.md",
+    "study/测控专业外语/长难句翻译.md",
+    "study/测控专业外语/未命名.md",
+    "trash/keywords.md"
+  ]
+}
