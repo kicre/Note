@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game/irc-hrtf.md",
+                "file": "game/Apex_cfg.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game/irc-hrtf.md",
+                "file": "game/Apex_cfg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game/irc-hrtf.md",
+                "file": "game/Apex_cfg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,18 +142,18 @@
   },
   "active": "b0dfacb964489463",
   "lastOpenFiles": [
-    "study/电路/单片机/单片机试题.md",
-    "game/irc-hrtf.md",
-    "study/英语/测控专业外语/测控专业外语常用单词表.md",
     "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲.md",
+    "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲-读书报告.md",
+    "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲-ppt.md",
+    "game/irc-hrtf.md",
+    "study/电路/单片机/单片机试题.md",
+    "study/英语/测控专业外语/测控专业外语常用单词表.md",
     "study/政治/形式与政策/社会实心得感悟.md",
     "study/政治/形式与政策/中共中央 国务院关于做好2023年全面推进乡村振兴重点工作的意见.md",
     "study/政治/形式与政策/如何实现共同富裕——实现共同富裕的措施.md",
     "study/政治/习思想/全面推进中国特色社会主义法治体系建设-ppt.md",
     "study/政治/习思想/全面推进中国特色社会主义法治体系建设-读书报告.md",
     "study/政治/习思想/全面推进中国特色社会主义法治体系建设.md",
-    "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲-ppt.md",
-    "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲-读书报告.md",
     "study/政治/毛概/markdown.md",
     "study/政治/马原/对马克思主义溯源剖析-读书报告.md",
     "study/政治/马原/马克思主义的三个来源和三个组成部分.md",
