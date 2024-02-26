@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/工程教育/从传统文化中提升艺术素养.md",
-                "mode": "preview",
+                "file": "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/工程教育/从传统文化中提升艺术素养.md",
+                "file": "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/工程教育/从传统文化中提升艺术素养.md",
+                "file": "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +140,28 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "b0dfacb964489463",
+  "active": "2bd738bee2493e2a",
   "lastOpenFiles": [
+    "study/政治/形式与政策/社会实心得感悟.md",
+    "study/政治/形式与政策/中共中央 国务院关于做好2023年全面推进乡村振兴重点工作的意见.md",
+    "study/政治/形式与政策/如何实现共同富裕——实现共同富裕的措施.md",
+    "study/政治/习思想/全面推进中国特色社会主义法治体系建设-ppt.md",
+    "study/政治/习思想/全面推进中国特色社会主义法治体系建设-读书报告.md",
+    "study/政治/习思想/全面推进中国特色社会主义法治体系建设.md",
+    "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲-ppt.md",
+    "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲-读书报告.md",
+    "study/政治/毛概/为动员一切力量把我国建设成为一个伟大的社会主义国家而斗争——关于党在过渡时期总路线的学习和宣传提纲.md",
+    "study/政治/毛概/markdown.md",
+    "study/政治/马原/对马克思主义溯源剖析-读书报告.md",
+    "study/政治/马原/马克思主义的三个来源和三个组成部分.md",
+    "study/政治/马原/马克思主义的三个来源和三个组成部分-ppt.md",
+    "study/仪器仪表/智能手持式激光测距仪-报告论文.md",
+    "study/政治/马原/~$test.pptx",
+    "study/政治/马原/对马克思主义溯源剖析.pdf",
+    "study/仪器仪表/智能手持式激光测距仪-技术路线.md",
+    "game/未命名.md",
+    "study/仪器仪表/报告论文.md",
+    "study/工程教育/从传统文化中提升艺术素养.md",
     "trash/chezmoi.md",
     "trash/pandoc.md",
     "trash/penumbra.md",
@@ -150,28 +170,10 @@
     "trash/keywords.md",
     "vps/时区.md",
     "vps/sudo.md",
-    "vps/rime.md",
-    "trash/wezterm 配色.md",
     "trash/att/color 1.lua",
     "trash/att/color.lua",
     "trash/att",
-    "trash/2094宽带账号.md",
     "trash/2094宽带账号.txt",
-    "trash/mouse.md",
-    "trash/LaTeX-公式.md",
-    "trash/mermaid.md",
-    "trash/etc.md",
-    "vps/aria2 1.md",
-    "trash/物理界的4大神兽.md",
-    "trash/大职规剧本.md",
-    "vps/watchtower.md",
-    "vps/rclone.md",
-    "vps/nginx.md",
-    "vps/miniflux.md",
-    "vps/Let's Encery.md",
-    "vps/aria2.md",
-    "vps/alist.md",
-    "vps/文件属性.md",
     "study/政治/习思想/图片2.jpg",
     "study/政治/习思想/图片1.jpg",
     "study/政治/习思想/图片5.jpg",
@@ -185,8 +187,6 @@
     "study/测控/质量监督/国家质量基础设施在机电产业中的应用.pdf",
     "vps",
     "study/仪器仪表/~WRL3712.tmp",
-    "study/att/~$大学学士论文模板.docx",
-    "study/仪器仪表/~$报告论文.docx",
-    "study/仪器仪表/~$~$报告论文.docx"
+    "study/att/~$大学学士论文模板.docx"
   ]
 }
