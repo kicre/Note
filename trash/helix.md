@@ -1,0 +1,1 @@
+sudo ln -s $(which helix) /bin/hx
