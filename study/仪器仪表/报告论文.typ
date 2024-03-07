@@ -92,6 +92,8 @@
     ]
 })
 
+#import "../../tem/beamer.typ": beamer
+
 #align(center, text(36pt,font: "STXinwei")[
   *本科生毕业设计*
 ])
