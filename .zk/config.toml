@@ -81,7 +81,7 @@ template = "default.md"
 
 # Format used to generate links between notes.
 # Either "wiki", "markdown" or a custom template. Default is "markdown".
-link-format = "wiki"
+#link-format = "wiki"
 # Indicates whether a link's path will be percent-encoded.
 # Defaults to true for "markdown" format and false for "wiki" format.
 #link-encode-path = true
@@ -90,12 +90,12 @@ link-format = "wiki"
 #link-drop-extension = true
 
 # Enable support for #hashtags.
-hashtags = false
+hashtags = true
 # Enable support for :colon:separated:tags:.
-colon-tags = false
+colon-tags = true
 # Enable support for Bear's #multi-word tags#
 # Hashtags must be enabled for multi-word tags to work.
-multiword-tags = false
+multiword-tags = true
 
 
 # EXTERNAL TOOLS
@@ -120,7 +120,7 @@ multiword-tags = false
 # LSP
 #
 #   Configure basic editor integration for LSP-compatible editors.
-#   See https://github.com/zk-org/zk/blob/main/docs/editors-integration.md
+#   See https://github.com/mickael-menu/zk/blob/main/docs/editors-integration.md
 #
 [lsp]
 
