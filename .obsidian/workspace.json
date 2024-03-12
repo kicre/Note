@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "game/mouse.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -142,6 +142,7 @@
   },
   "active": "b0dfacb964489463",
   "lastOpenFiles": [
+    "tem/main.typ",
     "trash/mouse.md",
     "vps/aria2.md",
     "vps/时区.md",
@@ -171,7 +172,6 @@
     "study/仪器仪表/智能手持式激光测距仪-报告论文.md",
     "study/政治/马原/~$test.pptx",
     "study/政治/马原/对马克思主义溯源剖析.pdf",
-    "study/仪器仪表/智能手持式激光测距仪-技术路线.md",
     "trash/att/color 1.lua",
     "trash/att/color.lua",
     "trash/att",
