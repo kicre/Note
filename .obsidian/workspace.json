@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vps/aria2.md",
-                "mode": "source",
+                "file": "game/mouse.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vps/aria2.md",
+                "file": "game/mouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vps/aria2.md",
+                "file": "game/mouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,8 +142,9 @@
   },
   "active": "b0dfacb964489463",
   "lastOpenFiles": [
-    "vps/时区.md",
+    "trash/mouse.md",
     "vps/aria2.md",
+    "vps/时区.md",
     "logseq/bak/vps/aria2/2024-02-26T04_17_54.853Z.Desktop.md",
     "logseq/bak/vps/aria2/2024-02-26T04_17_43.225Z.Desktop.md",
     "trash/pandoc.md",
@@ -171,7 +172,6 @@
     "study/政治/马原/~$test.pptx",
     "study/政治/马原/对马克思主义溯源剖析.pdf",
     "study/仪器仪表/智能手持式激光测距仪-技术路线.md",
-    "study/仪器仪表/报告论文.md",
     "trash/att/color 1.lua",
     "trash/att/color.lua",
     "trash/att",
