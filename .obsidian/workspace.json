@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game/mouse.md",
+                "file": "study/毕设/任务书.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2349396d4713f648",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game/mouse.md",
+                "file": "study/毕设/任务书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game/mouse.md",
+                "file": "study/毕设/任务书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +143,8 @@
   },
   "active": "b0dfacb964489463",
   "lastOpenFiles": [
+    "game/mouse.md",
+    "study/毕设/任务书.md",
     "tem/main.typ",
     "trash/mouse.md",
     "vps/aria2.md",
@@ -169,7 +172,6 @@
     "study/政治/马原/对马克思主义溯源剖析-读书报告.md",
     "study/政治/马原/马克思主义的三个来源和三个组成部分.md",
     "study/政治/马原/马克思主义的三个来源和三个组成部分-ppt.md",
-    "study/仪器仪表/智能手持式激光测距仪-报告论文.md",
     "study/政治/马原/~$test.pptx",
     "study/政治/马原/对马克思主义溯源剖析.pdf",
     "trash/att/color 1.lua",
@@ -186,7 +188,6 @@
     "study/总线数据/att/Pasted image 20230512002310.png",
     "study/工程教育/GIF 2022-10-11 20-41-51.gif",
     "study/电路/单片机/pic/Pasted image 20220526000341.png",
-    "study/测控/质量监督/国家质量基础设施在机电产业中的应用.pdf",
-    "vps"
+    "study/测控/质量监督/国家质量基础设施在机电产业中的应用.pdf"
   ]
 }
