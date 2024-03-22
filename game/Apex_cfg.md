@@ -1,6 +1,7 @@
 - +exec Apex_sound.cfg
 - Apex_sound.cfg
 - -eac_launcher_settings SettingsDX12.json
+
 ``` cfg
 miles_max_sounds_per_server_frame "400"
 miles_channels 2
