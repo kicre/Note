@@ -1,6 +1,6 @@
 #let uestc_blue = rgb(0,55,155)
 #let uestc_ginkgo = rgb(217, 183, 102)
-#let uestc_logo_path = "./pic/logo.png"
+#let hbu_logo_path = "./pic/hbulogo-ac.svg"
 #let ginkgo_path = "./pic/ginkgo.png"
 #let mainbuilding_path = "./pic/mainbuilding.png"
 
@@ -10,7 +10,7 @@
   page(
     margin: (top:20%, bottom: 5%, left: 5%, right:5%),
     background: image(mainbuilding_path),
-    header: align(right, image(uestc_logo_path,width: 25%))
+    header: align(right, image(hbu_logo_path,width: 25%))
   )[
     #if title != none {
       align(center+horizon, text(25pt, weight: "bold", title))
@@ -69,7 +69,7 @@
         row-gutter: 0%,
         grid(
           columns:(25%, 75%),
-          align(left+horizon, image(uestc_logo_path, width:100%)),
+          align(left+horizon, image(hbu_logo_path, width:100%)),
           align(center+horizon, text(fill: uestc_blue, size: 25pt, weight: "bold", title))
         ),
         align(center+bottom, line(length: 100%, stroke: (paint:uestc_blue, thickness:1pt)))
