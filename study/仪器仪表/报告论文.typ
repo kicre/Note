@@ -235,7 +235,7 @@ PCB设计是硬件设计的另一个关键环节。设计时需考虑元器件�
 
 === 编程环境与语言
 
-本项目采用 Arduino 编程环境，使用 C++ 语言进行开发。Arduino 是一个开源的电子原型平台，它包含了硬件（各种型号的 Arduino 板）和软件（Arduino IDE）。Arduino IDE 提供了一个易于使用的编程环境，支持 C++ 语言，并且有丰富的库和社区支持。
+本项目采用 Arduino 编程环境，使用 c++ 语言进行开发。Arduino 是一个开源的电子原型平台，它包含了硬件（各种型号的 Arduino 板）和软件（Arduino IDE）。Arduino IDE 提供了一个易于使用的编程环境，支持 c++ 语言，并且有丰富的库和社区支持。
 
 === 程序结构
 
@@ -258,7 +258,7 @@ PCB设计是硬件设计的另一个关键环节。设计时需考虑元器件�
 
 手动写入可能用到的中文字符集，定义文字显示像素。
 
-```c++
+```cpp
 U8G2_SH1106_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, /* reset=*/ U8X8_PIN_NONE);//1.30寸oled屏幕参数(SH1106)
 //U8G2_SSD1306_128X64_NONAME_F_SW_I2C u8g2(U8G2_R0, /* clock=*/ SCL, /* data=*/ SDA, /* reset=*/ U8X8_PIN_NONE);//0.96寸oled屏幕参数(SSD1306)
   
@@ -293,7 +293,7 @@ static const unsigned char PROGMEM str55[] = {0x00, 0x20, 0x00, 0x70, 0x00, 0xF8
 
 ==== 发送指令到测距模块串口
 
-```c++
+```cpp
 //发送到测距模块串口
 
 void measursend()
@@ -349,7 +349,7 @@ void measursend()
 
 ==== 将测距模块返回结果保存
 
-```c++
+```cpp
 enum
 {
   MEASUR_OFF,
@@ -378,7 +378,7 @@ enum
 
 在按照顺序执行法时，让蜂鸣器 IO 变高，延迟 200ms，然后变低，导致 CPU 都被蜂鸣器时间占用。避免这种情况，使用 millis 函数检测按键时间，按键时间大于 200ms ，启动蜂鸣器。
 
-```c++
+```cpp
 //蜂鸣器开
 
 void buzzeron200ms()
@@ -408,7 +408,7 @@ void buzzerreset()
 
 定义 `unitmanage()` 函数实现了激光测距仪的单位转换功能。这个功能允许用户通过按下一个特定的按键（`UnitButton` 定义的串口所连按键）来在毫米（mm）、厘米（cm）和米（m）之间切换测量单位。
 
-```c++
+```cpp
 //单位切换
 void unitmanage()
 {
@@ -496,7 +496,7 @@ void basemanage()
 
 当程序执行错误时，提示错误码，帮助用户在使用时排除错误。
 
-```c++
+```cpp
 {
         Serial.println("错误码校验和相等，错误码有效");
         switch (Distance_raw[7])
