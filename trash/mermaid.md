@@ -1,20 +1,8 @@
-
 1. 流程图
 
 示范
-````txt
-```mermaid
-graph LR
-    A[方形] -->B(圆角)
-    B --> C{菱形}
-    C -->|条件a| D[结果1]
-    C -->|条件b| E[结果2]
-    F[横向流程图]-->G[纵向流程图]
-```
-````
 
-效果
-
+```txt
 ```mermaid
 graph LR
     A[方形] -->B(圆角)
@@ -24,10 +12,18 @@ graph LR
     F[横向流程图]-->G[纵向流程图]
 ```
 
+```mermaid
+graph LR
+    A[方形] -->B(圆角)
+    B --> C{菱形}
+    C -->|条件a| D[结果1]
+    C -->|条件b| E[结果2]
+    F[横向流程图]-->G[纵向流程图]
+```
 
 2. 时序图
 
-````
+```
 ```mermaid
 sequenceDiagram
     participant Alice
@@ -41,7 +37,6 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
-````
 
 ```mermaid
 sequenceDiagram
@@ -59,7 +54,7 @@ sequenceDiagram
 
 3. 甘特图
 
-````
+```
 ```mermaid
 gantt
        dateFormat  YYYY-MM-DD
@@ -79,7 +74,6 @@ gantt
        Create tests for renderer           :2d
        Add to mermaid                      :1d
 ```
-````
 
 ```mermaid
 gantt
@@ -103,14 +97,13 @@ gantt
 
 4. 实体关系图
 
-````
+```
 ```mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
-````
 
 ```mermaid
 erDiagram
