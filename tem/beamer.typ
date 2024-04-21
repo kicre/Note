@@ -51,7 +51,7 @@
         fill: uestc_blue,
         width: 100%,
         height: 100%,
-        text(fill: white, size: 40pt, hyphenate: true, weight: "bold", [Outline])
+        text(fill: white, size: 40pt, hyphenate: true, weight: "bold", [目录])
       ),
     ),
     align(center+horizon, outline())
@@ -120,7 +120,7 @@
 #let beamer_end() = {
   set page(fill: uestc_blue)
   set align(left+horizon)
-  text(40pt, weight: "bold", fill: white )[End of Beamer!]
+  text(40pt, weight: "bold", fill: white )[感谢老师指导!]
 }
 
 #let beamer( title:none, subtitle:none, author:none, date:datetime(year: 2023, month: 7, day: 15), body) = {
