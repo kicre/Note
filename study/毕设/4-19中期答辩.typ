@@ -46,7 +46,6 @@ SAM 是一种基于Vision Transformer架构的图像分割模型。它通过大�
 
 == 数据预处理
 
-=== 图像归一化
 
 ```py
 lower_bound = -500
@@ -112,6 +111,16 @@ test_labels = labels[indices[train_samples:]]
 print("训练集样本数量:", train_data.shape[0])
 print("测试集样本数量:", test_data.shape[0])
 ```
+
+== 无微调运行 SAM 对图像分割处理结果
+
+#align(
+  center + horizon, 
+  figure(
+    image(width: 35%, "mask3.jpg"),
+    caption:[Mask 3 score:0.878]
+  )
+)
 
 == 模型训练
 

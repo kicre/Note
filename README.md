@@ -1,3 +1,3 @@
 # note
 
-个人笔记 GitHub 仓库
+个人笔记 GitHub 仓库。
