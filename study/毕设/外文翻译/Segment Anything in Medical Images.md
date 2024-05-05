@@ -97,23 +97,43 @@ The authors of this paper highly appreciate all the data owners for providing pu
 
 # REFERENCES
 
-> J. De Fauw, J. R. Ledsam, B. Romera-Paredes, S. Nikolov, N. Tomasev, S. Blackwell, H. Askham, X. Glorot, B. O’Donoghue, D. Visentin et al., “Clinically applicable deep learning for diagnosis and referral in retinal disease,” Nature Medicine, vol. 24, no. 9, p. 1342–1350, 2018.   
-> D. Ouyang, B. He, A. Ghorbani, N. Yuan, J. Ebinger, C. P. Langlotz, P. A. Heidenreich, R. A. Harrington, D. H. Liang, E. A. Ashley et al., “Video-based ai for beat-to-beat assessment of cardiac function,” Nature, vol. 580, no. 7802, pp. 252–256, 200.   
-> F. Isensee, P. F. Jaeger, S. A. Kohl, J. Petersen, and K. H. Maier-Hein, “nnu-net: a self-configuring method for deep learning-based biomedical image segmentation,” Nature Mehods, vol. 18, no. 2, pp. 203–211, 2021.   
-> A. Kirillov, E. Mintun, N. Ravi, H. Mao, C. Rolland, L. Gustafson, T. Xiao, S. Whitehead, A. C. Berg, W.-Y. Lo et al., “Segment anything,” arXiv preprint arXiv:2304.0243, 2023.   
-> X. Zou, J. Yang, H. Zhang, F. Li, L. Li, J. Gao, and Y. J. Lee, “Segment evrything everywhere all at once,” arXiv preprint arXiv:2304.06718, 2023.   
-> Y. Huang, X. Yang, L. Liu, H. Zhou, A. Chang, X. Zhou, R. Chen, J. Yu, J. Chen, C. Chen et al., “Segment anything model for medical images?” arXiv preprint arXiv:2304.1460, 2023.   
-> A. Dosovitskiy, L. Beyer, A. Kolesnikov, D. Weissenborn, X. Zhai, T. Unterthiner, M. Dehghani, M. Minderer, G. Heigold, S. Gelly et al., “An image is worth 16x16 words: Transformers for image recognition at scale,” in International Conference on Learning Reresentations, 2020.   
-> M. Tancik, P. Srinivasan, B. Mildenhall, S. Fridovich-Keil, N. Raghavan, U. Singhal, R. Ramamoorthi, J. Barron, and R. Ng, “Fourier features let networks learn high frequency functions in low dimensional domains,” Advances in Neural Information Prcessing Systems, vol. 33, pp. 7537–7547, 2020.   
-> A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, Ł. Kaiser, and I. Polosukhin, “Attention is all you need,” Advances in neural Information Prcessing Systems, vol. 30, 2017.   
->  E. K. Abdalla, R. Adam, A. J. Bilchik, D. Jaeck, J.-N. Vauthey, and D. Mahvi, “Improving resectability of hepatic colorectal metastases: expert consensus statement,” Anals of Surgical Oncology, vol. 13, pp. 1271–1280, 2006.   
->  K. Bera, N. Braman, A. Gupta, V. Velcheti, and A. Madabhushi, “Predicting cancer outcomes with radiomics and artificial intelligence in radiology,” Nature Reviews Clnical Oncology, vol. 19, no. 2, pp. 132–146, 2022.   
->  S. Bakas, M. Reyes, A. Jakab, S. Bauer, M. Rempfler, A. Crimi et al., “Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the brats challenge,” arXiv prprint arXiv:1811.02629, 2018.   
->  V. M. Campello, P. Gkontra, C. Izquierdo, C. Mart ́ın-Isla, A. Sojoudi, P. M. Full, K. Maier-Hein, Y. Zhang, Z. He, J. Ma, M. Parre  ̃ no, A. Albiol, F. Kong, S. C. Shadden, J. C. Acero, V. Sundaresan, M. Saber, M. Elattar, H. Li, B. Menze, F. Khader, C. Haarburger, C. M. Scannell, M. Veta, A. Carscadden, K. Punithakumar, X. Liu, S. A. Tsaftaris, X. Huang, X. Yang, L. Li, X. Zhuang, D. Vilad ́ es, M. L. Descalzo, A. Guala, L. La Mura, M. G. Friedrich, R. Garg, J. Lebel, F. Henriques, M. Karakas, E. C ̧ avus ̧, S. E. Petersen, S. Escalera, S. Segu ́ı, J. F. Rodr ́ıguez-Palomares, and K. Lekadir, “Multi-centre, multi-vendor and multi-disease cardiac segmentation: The m&ms challenge,” IEEE Trnsactions on Medical Imaging, vol. 40, no. 12, pp. 3543–3554, 2021.   
->  K. Zhang, X. Liu, J. Shen, Z. Li, Y. Sang, X. Wu, Y. Zha, W. Liang, C. Wang, K. Wang et al., “Clinically applicable ai system for accurate diagnosis, quantitative measurements, and prognosis of covid-19 pneumonia using computed tomography,” Cell, vol. 18, no. 6, pp. 14231433, 2020.   
->  D. Shen, G. Wu, and H.-I. Suk, “Deep learning in medical image analysis,” Annual Reiew of Biomedical Engineering, vol. 19, pp. 221–248, 2017.   
->  T. B. Brown, B. Mann, N. Ryder, M. Subbiah, J. Kaplan, P. Dhariwal, A. Neelakantan, P. Shyam, G. Sastry, A. Askell et al., “Language models are few-shot lerners,” arXiv preprint arXiv:2005.14165, 2020.   
->  J. L. Ba, J. R. Kiros, and G. E. Hinton, “Layer normalization,” arXiv preprint ariv:1607.06450, 2016.   
->  K. He, X. Chen, S. Xie, Y. Li, P. Doll ́ ar, and R. Girshick, “Masked autoencoders are scalable vision learners,” in Proceedings of the IEEE/CVF Conference on Computer Viion and Pattern Recognition, 2022, pp. 16 000–16 009.   
->  I. Loshchilov and F. Hutter, “Decoupled weight decay regularization,” in Inernational Conference on Learning Representations, 2019.   
->  L. Maier-Hein, A. Reinke, P. Godau, M. D. Tizabi, F. B  ̈ uttner et al., “Metrics reloaded: Pitfalls and recommendations for image analysis validation,” arXiv preprint arXiv:2206.01653, 2022.  
+> J. De Fauw, J. R. Ledsam, B. Romera-Paredes, S. Nikolov, N. Tomasev, S. Blackwell, H. Askham, X. Glorot, B. O’Donoghue, D. Visentin et al., “Clinically applicable deep learning for diagnosis and referral in retinal disease,” Nature Medicine, vol. 24, no. 9, p. 1342–1350, 2018.
+
+> D. Ouyang, B. He, A. Ghorbani, N. Yuan, J. Ebinger, C. P. Langlotz, P. A. Heidenreich, R. A. Harrington, D. H. Liang, E. A. Ashley et al., “Video-based ai for beat-to-beat assessment of cardiac function,” Nature, vol. 580, no. 7802, pp. 252–256, 200.
+
+> F. Isensee, P. F. Jaeger, S. A. Kohl, J. Petersen, and K. H. Maier-Hein, “nnu-net: a self-configuring method for deep learning-based biomedical image segmentation,” Nature Mehods, vol. 18, no. 2, pp. 203–211, 2021.
+
+> A. Kirillov, E. Mintun, N. Ravi, H. Mao, C. Rolland, L. Gustafson, T. Xiao, S. Whitehead, A. C. Berg, W.-Y. Lo et al., “Segment anything,” arXiv preprint arXiv:2304.0243, 2023.
+
+> X. Zou, J. Yang, H. Zhang, F. Li, L. Li, J. Gao, and Y. J. Lee, “Segment evrything everywhere all at once,” arXiv preprint arXiv:2304.06718, 2023.
+
+> Y. Huang, X. Yang, L. Liu, H. Zhou, A. Chang, X. Zhou, R. Chen, J. Yu, J. Chen, C. Chen et al., “Segment anything model for medical images?” arXiv preprint arXiv:2304.1460, 2023.
+
+> A. Dosovitskiy, L. Beyer, A. Kolesnikov, D. Weissenborn, X. Zhai, T. Unterthiner, M. Dehghani, M. Minderer, G. Heigold, S. Gelly et al., “An image is worth 16x16 words: Transformers for image recognition at scale,” in International Conference on Learning Reresentations, 2020.
+
+> M. Tancik, P. Srinivasan, B. Mildenhall, S. Fridovich-Keil, N. Raghavan, U. Singhal, R. Ramamoorthi, J. Barron, and R. Ng, “Fourier features let networks learn high frequency functions in low dimensional domains,” Advances in Neural Information Prcessing Systems, vol. 33, pp. 7537–7547, 2020.
+
+> A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, Ł. Kaiser, and I. Polosukhin, “Attention is all you need,” Advances in neural Information Prcessing Systems, vol. 30, 2017.
+
+>  E. K. Abdalla, R. Adam, A. J. Bilchik, D. Jaeck, J.-N. Vauthey, and D. Mahvi, “Improving resectability of hepatic colorectal metastases: expert consensus statement,” Anals of Surgical Oncology, vol. 13, pp. 1271–1280, 2006.
+
+>  K. Bera, N. Braman, A. Gupta, V. Velcheti, and A. Madabhushi, “Predicting cancer outcomes with radiomics and artificial intelligence in radiology,” Nature Reviews Clnical Oncology, vol. 19, no. 2, pp. 132–146, 2022.
+
+>  S. Bakas, M. Reyes, A. Jakab, S. Bauer, M. Rempfler, A. Crimi et al., “Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the brats challenge,” arXiv prprint arXiv:1811.02629, 2018.
+
+>  V. M. Campello, P. Gkontra, C. Izquierdo, C. Mart ́ın-Isla, A. Sojoudi, P. M. Full, K. Maier-Hein, Y. Zhang, Z. He, J. Ma, M. Parre  ̃ no, A. Albiol, F. Kong, S. C. Shadden, J. C. Acero, V. Sundaresan, M. Saber, M. Elattar, H. Li, B. Menze, F. Khader, C. Haarburger, C. M. Scannell, M. Veta, A. Carscadden, K. Punithakumar, X. Liu, S. A. Tsaftaris, X. Huang, X. Yang, L. Li, X. Zhuang, D. Vilad ́ es, M. L. Descalzo, A. Guala, L. La Mura, M. G. Friedrich, R. Garg, J. Lebel, F. Henriques, M. Karakas, E. C ̧ avus ̧, S. E. Petersen, S. Escalera, S. Segu ́ı, J. F. Rodr ́ıguez-Palomares, and K. Lekadir, “Multi-centre, multi-vendor and multi-disease cardiac segmentation: The m&ms challenge,” IEEE Trnsactions on Medical Imaging, vol. 40, no. 12, pp. 3543–3554, 2021.
+
+>  K. Zhang, X. Liu, J. Shen, Z. Li, Y. Sang, X. Wu, Y. Zha, W. Liang, C. Wang, K. Wang et al., “Clinically applicable ai system for accurate diagnosis, quantitative measurements, and prognosis of covid-19 pneumonia using computed tomography,” Cell, vol. 18, no. 6, pp. 14231433, 2020.
+
+>  D. Shen, G. Wu, and H.-I. Suk, “Deep learning in medical image analysis,” Annual Reiew of Biomedical Engineering, vol. 19, pp. 221–248, 2017.
+
+>  T. B. Brown, B. Mann, N. Ryder, M. Subbiah, J. Kaplan, P. Dhariwal, A. Neelakantan, P. Shyam, G. Sastry, A. Askell et al., “Language models are few-shot lerners,” arXiv preprint arXiv:2005.14165, 2020.
+
+>  J. L. Ba, J. R. Kiros, and G. E. Hinton, “Layer normalization,” arXiv preprint ariv:1607.06450, 2016.
+
+>  K. He, X. Chen, S. Xie, Y. Li, P. Doll ́ ar, and R. Girshick, “Masked autoencoders are scalable vision learners,” in Proceedings of the IEEE/CVF Conference on Computer Viion and Pattern Recognition, 2022, pp. 16 000–16 009.
+
+>  I. Loshchilov and F. Hutter, “Decoupled weight decay regularization,” in Inernational Conference on Learning Representations, 2019.
+
+>  L. Maier-Hein, A. Reinke, P. Godau, M. D. Tizabi, F. B  ̈ uttner et al., “Metrics reloaded: Pitfalls and recommendations for image analysis validation,” arXiv preprint arXiv:2206.01653, 202.
+
