@@ -89,10 +89,6 @@ MedSAM旨在成为通用医学图像分割的基础模型。构建这样一个�
 
 所有代码均使用Python (3.10)实现，使用Pytorch (2.0)作为基础的深度学习框架。我们还使用了多个Python包进行数据分析和结果可视化，包括SimpleITK (2.2.1)、nibabel (5.1.0)、torchvision (0.15.2)、numpy (1.24.3)、scikit-image (0.20.0)、opencv-python (4.7.0)、scipy (1.10.1)、pandas (2.0.2)、matplotlib (3.7.1) 和 plotly (5.15.0)。Biorender被用来创建图1a。训练脚本、推理脚本和训练好的模型已在 https://github.com/bowang-lab/MedSAM 上公开可用。
 
-## 致谢
-
-本文的作者非常感谢所有为社区提供公共医学图像的数据所有者。我们还要感谢Meta AI将“Segment Anything”的源代码公开提供给社区。
-
 ---
 
 图表、致谢及参考文献已略去(见原文)。

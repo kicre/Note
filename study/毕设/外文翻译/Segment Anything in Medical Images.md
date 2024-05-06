@@ -92,7 +92,7 @@ All the datasets in this study are from public datasets. The download links are 
 
 All code was implemented in Python (3.10) using Pytorch (2.0) as the base deep learning framework. We also used several python packages for data analysis and results visualization, including SimpleITK (2.2.1), nibabel (5.1.0), torchvision (0.15.2), numpy (1.24.3), scikit-image (0.20.0), opencvpython (4.7.0), scipy (1.10.1), and pandas (2.0.2), matplotlib (3.7.1), and plotly (5.15.0). Biorender was used to create Fig. 1a. The training script, inference script, and trained model have been publicly available at https://github.com/bowang-lab/MedSAM.
 
-## Acknowledgements
+# Acknowledgements
 
 The authors of this paper highly appreciate all the data owners for providing public medical images to the community. We also thank Meta AI for making the source code of segment anything publicly available to the community.
 
